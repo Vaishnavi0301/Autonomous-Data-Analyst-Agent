@@ -367,7 +367,7 @@ What preprocessing steps are recommended before training an ML model?
 ## 1. Clone Repository
 
 ```bash
-git clone https://github.com/AdithyaRaoK14/Autonomous-Data-Analyst-Agent.git
+git clone https://github.com/Vaishnavi0301/Autonomous-Data-Analyst-Agent.git
 cd data-analyst-agent
 ```
 
